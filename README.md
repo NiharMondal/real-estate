@@ -9,4 +9,5 @@ It is a Next js project
 ### Dynamic routing 
 ### Search property according your need
 
-
+# Styling
+### Chakra UI
