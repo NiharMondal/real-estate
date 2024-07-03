@@ -7,7 +7,12 @@ It is a Nextjs project based on real estate. User can sell and find houses accor
 - SSG
 - SSR
 - Dynamic routing
-- Search property according your need
+
+## Features
+- Search property according to your need
+- View in details
+- Share URL link with your friends
+- 
 
 # Styling
 - Chakra UI
